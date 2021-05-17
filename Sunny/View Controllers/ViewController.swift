@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Sunny
 //
-//  Created by Ivan Akulov on 24/02/2020.
-//  Copyright © 2020 Ivan Akulov. All rights reserved.
+//  Created by Basil Chistyakov on 24/02/2021.
+//  Copyright © 2021 Basil Chistyakov. All rights reserved.
 //
 
 import UIKit
